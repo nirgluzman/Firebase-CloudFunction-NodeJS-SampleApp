@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "function-nodejs-sampleapp"
+  },
+  "targets": {},
+  "etags": {}
+}
